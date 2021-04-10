@@ -1,0 +1,17 @@
+{
+    "name": "pack/test",
+    "description": "test",
+    "type": "library",
+    "authors": [
+        {
+            "name": "yang",
+            "email": "3496113156@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Pack\\test\\": "src"
+        }
+    }
+}
